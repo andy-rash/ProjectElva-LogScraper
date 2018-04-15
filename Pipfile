@@ -1,0 +1,45 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+"asn1crypto" = "*"
+cffi = "*"
+cryptography = "*"
+decorator = "*"
+"enum34" = "*"
+et_xmlfile = "*"
+"functools32" = "*"
+idna = "*"
+ipaddress = "*"
+ipython_genutils = "*"
+jdcal = "*"
+jsonschema = "*"
+jupyter_core = "*"
+nbformat = "*"
+numpy = "*"
+openpyxl = "*"
+paramiko = "*"
+plotly = "*"
+"psycopg2" = "*"
+"pyasn1" = "*"
+pycparser = "*"
+pyparsing = "*"
+pytz = "*"
+requests = "*"
+SQLAlchemy = "*"
+tqdm = "*"
+traitlets = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "2.7"
